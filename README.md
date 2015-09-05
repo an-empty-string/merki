@@ -1,2 +1,2 @@
-# pennapps-12-project-or-something
+# Merki
 Internet-radioey intranet
